@@ -1,0 +1,57 @@
+# Moshe Shtaegman — Generative Engine Optimization Map
+
+> A business automation solutions business.
+
+---
+
+## Pages
+
+### Home
+https://moshe-shtaegman-322e25ba.zappy5.app
+Transform your business with cutting-edge shopify ecommerce website solutions. Automation tools and SaaS platforms for modern enterprises.
+
+### Services
+https://moshe-shtaegman-322e25ba.zappy5.app/services
+Professional ecommerce fulfillment services, SCADA systems, and vertical lift module solutions. Comprehensive automation for businesses.
+
+### About
+https://moshe-shtaegman-322e25ba.zappy5.app/about
+Learn about our mission to revolutionize business operations through shopify ecommerce website development and advanced automation solutions.
+
+### Contact
+https://moshe-shtaegman-322e25ba.zappy5.app/contact
+Contact us for shopify ecommerce website development, SCADA systems, and business automation solutions. Get expert consultation today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://moshe-shtaegman-322e25ba.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://moshe-shtaegman-322e25ba.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://moshe-shtaegman-322e25ba.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Moshe Shtaegman
+Moshe Shtaegman is a business in the business automation solutions industry.
+
+## Target Audience
+small and medium businesses, professionals
+
+## Industry
+business automation solutions
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://moshe-shtaegman-322e25ba.zappy5.app/sitemap.xml
+- **Robots.txt**: https://moshe-shtaegman-322e25ba.zappy5.app/robots.txt
